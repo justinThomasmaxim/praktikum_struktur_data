@@ -1,0 +1,3 @@
+
+  string nama;
+  string nim;
